@@ -1,0 +1,30 @@
+[{
+    "title": "Office 1",
+    "number": 1,
+    "priority": [1, 4]
+},
+{
+    "title": "Office 2",
+    "number": 2,
+    "priority": [1, 4]
+},
+{
+    "title": "Cash",
+    "number": 3,
+    "priority": [1, 2, 3, 4]
+},
+{
+    "title": "Counter 1",
+    "number": 4,
+    "priority": [4]
+},
+{
+    "title": "Counter 2",
+    "number": 5,
+    "priority": [4]
+},
+{
+    "title": "Counter 3",
+    "number": 6,
+    "priority": [4]
+}]
